@@ -11,16 +11,16 @@ This is an updated version of the basic calculator project built with HTML and J
 
 ## Files
 
-- **variables1.js**: JavaScript logic for handling input, validation, and calculations.
-- **variables1.html**: HTML file that loads the JavaScript file and displays the results.
+- **index.js**: JavaScript logic for handling input, validation, and calculations.
+- **index.html**: HTML file that loads the JavaScript file and displays the results.
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IamPial/basic-calculator-2.git
+   git clone https://github.com/IamPial/basic-calculator/basic-calculator-2.git
 
-    Open the variables1.html file in any web browser.
+    Open the index.html file in any web browser.
 
     Use the prompts to:
         Enter two numbers.
